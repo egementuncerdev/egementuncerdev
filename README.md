@@ -8,6 +8,7 @@ Freelance web geliştiriciyim. Küçük işletmeler, kafeler ve dükkanlar için
 
 | Proje | Ne yapıyor? | |
 | --- | --- | --- |
+| **[Mürver](https://github.com/egementuncerdev/murver-salon)** | Kurgusal güzellik salonu için 22 sayfalık, iki dilli site: çoklu hizmet seçimi, gerçek boş saatlerle online randevu, takvime ekleme. | [Canlı](https://salon.egementuncer.dev) · [Nasıl yapıldı?](https://egementuncer.dev/projeler/murver-salon/) |
 | **[Sedefli Diş](https://github.com/egementuncerdev/sedefli-dis)** | Kurgusal diş kliniği için 28 sayfalık, iki dilli site: tedavi sayfaları, 5 adımlı randevu talebi, yerel SEO. | [Canlı](https://klinik.egementuncer.dev) · [Nasıl yapıldı?](https://egementuncer.dev/projeler/sedefli-dis/) |
 | **[Nöbetçi](https://github.com/egementuncerdev/nobetci)** | Vardiyalı çalışanlar için mesai hesabı ve gerçek boş zamanı bulan planlayıcı. PWA, çevrimdışı, 35 test. | [Canlı](https://nobetci.egementuncer.dev) · [Nasıl yapıldı?](https://egementuncer.dev/projeler/nobetci/) |
 | **[Feeravun Cafe](https://github.com/egementuncerdev/feeravun-cafe)** | Kafeler için QR menü: “Ne içsem?” asistanı, hesap bölme, alerjen filtreleri, baskıya hazır QR kart. | [Canlı](https://cafe.egementuncer.dev) · [Nasıl yapıldı?](https://egementuncer.dev/projeler/feeravun-cafe/) |
